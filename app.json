@@ -5,9 +5,10 @@
     "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
   "stack": "container",
     "env": {
-        "STRING_SESSION1":BQBiMZkAOwS4QHsB0tGh-5QuUb_b_0wZ0p_clJsc6dhbb1y3LCc7vGR8aFlSZDlmuffGbD3U81O3vFsnVEiTBwEaaSICN2pkSZtPtCVmtF_9iTBALpXYPf5YfQog_LlE6U36rk10HNe9oQy4JGKvOEen6jkZSx7BCyQHw26T8__NalLnzHQQm9KVRD0uQDOJAxXd-j6Vuo4U0Kfz_X4D4Cg5X2DorCHYW5r8BmiL5yQEVqsxpIqDZbGnnesH1x1A8OaF8IPUGfF8VEbU2B57zpAzbbz2mp79th2HQCmq9iMVtCcraeowJs7YLlwtSWagTkUU0UMYTJpBdyksDWwdi_Ljp6edvAAAAABtG5tYAA {
+        "STRING_SESSION1": {
             "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
-            "required": true
+            "required": true,
+            "value": "BQBiMZkAOwS4QHsB0tGh-5QuUb_b_0wZ0p_clJsc6dhbb1y3LCc7vGR8aFlSZDlmuffGbD3U81O3vFsnVEiTBwEaaSICN2pkSZtPtCVmtF_9iTBALpXYPf5YfQog_LlE6U36rk10HNe9oQy4JGKvOEen6jkZSx7BCyQHw26T8__NalLnzHQQm9KVRD0uQDOJAxXd-j6Vuo4U0Kfz_X4D4Cg5X2DorCHYW5r8BmiL5yQEVqsxpIqDZbGnnesH1x1A8OaF8IPUGfF8VEbU2B57zpAzbbz2mp79th2HQCmq9iMVtCcraeowJs7YLlwtSWagTkUU0UMYTJpBdyksDWwdi_Ljp6edvAAAAABtG5tYAA"
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
