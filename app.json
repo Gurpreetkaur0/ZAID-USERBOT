@@ -8,7 +8,7 @@
         "STRING_SESSION1": {
             "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
             "required": true,
-            "value": "BQBiMZkAOwS4QHsB0tGh-5QuUb_b_0wZ0p_clJsc6dhbb1y3LCc7vGR8aFlSZDlmuffGbD3U81O3vFsnVEiTBwEaaSICN2pkSZtPtCVmtF_9iTBALpXYPf5YfQog_LlE6U36rk10HNe9oQy4JGKvOEen6jkZSx7BCyQHw26T8__NalLnzHQQm9KVRD0uQDOJAxXd-j6Vuo4U0Kfz_X4D4Cg5X2DorCHYW5r8BmiL5yQEVqsxpIqDZbGnnesH1x1A8OaF8IPUGfF8VEbU2B57zpAzbbz2mp79th2HQCmq9iMVtCcraeowJs7YLlwtSWagTkUU0UMYTJpBdyksDWwdi_Ljp6edvAAAAABtG5tYAA"
+            "value": "BQBiMZkAA-ErAVUuo3z9b_qotM0FBafYggqLGWPa4E5q9okNTp59DjMOGI49vGelwLwrO4j98fR9TKPRTb-6pAKl4CPGnAxYRwYKSuHayXq6JqEJ6WFTUUMYIzxoPk_s-wwXomdjFdjN3ttOas15_owsQ1JynWH-yiBp0-w_MeCJ9QUg6sNuVL2PdkHTN1hK4EfgHFeGfpBvoPngIEuRWByJ3VKrnUDJ9PZFc0VjedW-uftzHM_9pvIHQSGkv4DW1qX1SY7w2V97SJIGlguLO1zzQUXVya8g71w8TFyO1nfOMRkRt-p2bydk_7Ii2loSpYYZvdQqqeaWve6GomndQXmvGiCNqQAAAABtG5tYAA"
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
